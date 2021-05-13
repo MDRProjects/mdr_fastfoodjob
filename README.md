@@ -28,3 +28,7 @@
 ### Using Git
     cd resources
     git clone https://github.com/ZzMaMaDzZ/mdr_fastfoodjob [MDR]/mdr_fastfoodjob
+### Manually
+- Download [This](https://github.com/ZzMaMaDzZ/mdr_fastfoodjob/archive/master.zip)
+- Put it in resources/[MDR] directory
+- remove **-master** at the end of file name.
