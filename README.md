@@ -37,6 +37,10 @@
 I made that map for fivem if you don't know how to do this
 - [Download](https://filebin.net/squv3n9rondm50qc)
 
+## Contact Me
+- Discord : **ZzMaMaDzZ#0786**
+- Email : **magicmms60@gmail.com**
+
 ## Author's talk
 Do not edit resource and re-upload and claim as your own work without my permission. If you want to share your edites create a pull request though GitHub or dm me in discord
 
