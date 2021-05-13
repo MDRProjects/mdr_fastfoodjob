@@ -21,3 +21,7 @@
 - [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
 - [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
 - [mythic_progbar](https://github.com/HalCroves/mythic_progbar)
+
+## Download & Installation
+### Using [fvm](https://github.com/qlaffont/fvm-installer)
+    fvm install --save --folder=[MDR] ZzMaMaDzZ/mdr_fastfoodjob
