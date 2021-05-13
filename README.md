@@ -10,5 +10,7 @@
 ![Alt text](https://i.imgur.com/kkciLLl.jpeg)
 
 ## Support
-- if you need help -> [Click Here]()
-- if you want to report a bug -> [Click Here]()
+- If you need help -> [Click Here]()
+- If you want to report a bug -> [Click Here]()
+- If you have a suggestion -> [Click Here]()
+> And also you can send [email](mailto:magicmms60@gmail.com) or dm me in discord
