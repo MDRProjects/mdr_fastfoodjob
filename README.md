@@ -10,9 +10,7 @@
 ![Alt text](https://i.imgur.com/kkciLLl.jpeg)
 
 ## Support
-- If you need help -> [Click Here]()
-- If you want to report a bug -> [Click Here]()
-- If you have a suggestion -> [Click Here]()
+- If you need help or if you want to report a bug or if you have a suggestion -> [Click Here]()
 > Also you can send email or dm me in discord
 
 ## Requirements
