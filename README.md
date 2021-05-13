@@ -32,3 +32,10 @@
 - Download [This](https://github.com/ZzMaMaDzZ/mdr_fastfoodjob/archive/master.zip)
 - Put it in resources/[MDR] directory
 - remove **-master** at the end of file name.
+
+## Author's talk
+Do not edit resource and re-upload and claim as your own work without my permission. If you want to share your edites create a pull request though GitHub or dm me in discord
+
+## Credits
+- Thanks to [FuryFight3r - McDonalds Job for ESX](https://github.com/FuryFight3r/dgrp_mcdonaldsjob)
+- [Patoche - Fastfood / restaurant / ( YMAP )](https://www.gta5-mods.com/maps/fastfood-restaurant-ymap)
