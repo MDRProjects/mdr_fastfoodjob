@@ -32,6 +32,9 @@
 - Download [This](https://github.com/ZzMaMaDzZ/mdr_fastfoodjob/archive/master.zip)
 - Put it in resources/[MDR] directory
 - remove **-master** at the end of file name.
+### Installation
+- Import fastfood.sql into your database
+- Add this in your server.cfg : `start dgrp_mcdonaldsjob`
 ### Map
 I made that map for fivem if you don't know how to do this
 - [Download](https://filebin.net/squv3n9rondm50qc)
