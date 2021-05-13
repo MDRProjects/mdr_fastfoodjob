@@ -4,10 +4,10 @@
 * simple Config file for easy customization.
 * drink, burger, package etc. items !
 * a good building
-***
-> You Can See The Release Post [Here]()
+**Note:** You Can See The Release Post [Here]()
+{: .note}
 ***
 ![Alt text](https://i.imgur.com/kkciLLl.jpeg)
 
 ## Support
-    - if you need help - [Click Here]()
+- if you need help - [Click Here]()
