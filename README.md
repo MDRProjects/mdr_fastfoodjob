@@ -13,4 +13,11 @@
 - If you need help -> [Click Here]()
 - If you want to report a bug -> [Click Here]()
 - If you have a suggestion -> [Click Here]()
-> And also you can send [email](mailto:magicmms60@gmail.com) or dm me in discord
+> Also you can send email or dm me in discord
+
+## Requirements
+- [es_extended(v1-final)](https://github.com/ESX-Org/es_extended/tree/v1-final)
+- [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
+- [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
+- [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
+- [mythic_progbar](https://github.com/HalCroves/mythic_progbar)
