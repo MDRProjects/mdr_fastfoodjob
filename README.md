@@ -6,5 +6,5 @@
 * a good building
 
 You Can See The Release Post [Here]()
-[](https://i.imgur.com/kkciLLl.jpeg)
+[.](https://i.imgur.com/kkciLLl.jpeg)
 
