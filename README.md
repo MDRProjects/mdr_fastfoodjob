@@ -10,4 +10,4 @@
 ![Alt text](https://i.imgur.com/kkciLLl.jpeg)
 
 ## Support
-[if you need help] - [Click Here]()
+1. if you need help - [Click Here]()
