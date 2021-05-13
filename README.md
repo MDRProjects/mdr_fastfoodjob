@@ -39,3 +39,4 @@ Do not edit resource and re-upload and claim as your own work without my permiss
 ## Credits
 - Thanks to [FuryFight3r - McDonalds Job for ESX](https://github.com/FuryFight3r/dgrp_mcdonaldsjob)
 - [Patoche - Fastfood / restaurant / ( YMAP )](https://www.gta5-mods.com/maps/fastfood-restaurant-ymap)
+                       uhu
