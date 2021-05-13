@@ -25,3 +25,6 @@
 ## Download & Installation
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
     fvm install --save --folder=[MDR] ZzMaMaDzZ/mdr_fastfoodjob
+### Using Git
+    cd resources
+    git clone https://github.com/ZzMaMaDzZ/mdr_fastfoodjob [MDR]/mdr_fastfoodjob
