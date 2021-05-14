@@ -9,7 +9,7 @@
 
 ## Support
 - If you need help or if you want to report a bug or if you have a suggestion -> [Click Here](https://github.com/ZzMaMaDzZ/mdr_fastfoodjob/issues/new)
-> Also you can send email or dm me in discord
+  > Also you can send email or dm me in discord
 
 ## Requirements
 - [es_extended(v1-final)](https://github.com/ESX-Org/es_extended/tree/v1-final)
