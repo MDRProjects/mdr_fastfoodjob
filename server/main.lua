@@ -46,13 +46,13 @@ ESX.RegisterUsableItem('drink', function(source)
 	xPlayer.showNotification('You drinked a drink')
 end)
 
-ESX.RegisterUsableItem('potato', function(source)
+ESX.RegisterUsableItem('fries', function(source)
 	local xPlayer = ESX.GetPlayerFromId(source)
-	xPlayer.removeInventoryItem('potato', 1)
+	xPlayer.removeInventoryItem('fries', 1)
 
 	TriggerClientEvent('esx_status:add', source, 'hunger', 500000)
 	TriggerClientEvent('esx_basicneeds:onEat', source)
-	xPlayer.showNotification('You eated a potato')
+	xPlayer.showNotification('You eated fries')
 end)
 ESX.RegisterUsableItem('packaged_burger', function(source)
 	local xPlayer = ESX.GetPlayerFromId(source)
@@ -134,9 +134,9 @@ end)
 RegisterServerEvent('esx_fastfood:cookedFries')
 AddEventHandler('esx_fastfood:cookedFries', function()
     local xPlayer = ESX.GetPlayerFromId(source)
-    if xPlayer.canCarryItem('potato', 1) then
-        xPlayer.addInventoryItem('potato', 1)
-        xPlayer.showNotification('~g~You get potato', true, false, 120)
+    if xPlayer.canCarryItem('fries', 1) then
+        xPlayer.addInventoryItem('fries', 1)
+        xPlayer.showNotification('~g~You get fries', true, false, 120)
     else
         xPlayer.showNotification('~r~Inventory is full !', true, false, 120)
     end
@@ -144,19 +144,19 @@ end)
 RegisterServerEvent('esx_fastfood:cookedPackage')
 AddEventHandler('esx_fastfood:cookedPackage', function()
     local xPlayer = ESX.GetPlayerFromId(source)
-    local xItem, xItem2, xItem3 = xPlayer.getInventoryItem('burger'), xPlayer.getInventoryItem('drink'), xPlayer.getInventoryItem('potato')
+    local xItem, xItem2, xItem3 = xPlayer.getInventoryItem('burger'), xPlayer.getInventoryItem('drink'), xPlayer.getInventoryItem('fries')
       if xItem.count > 0 and xItem2.count > 0 and xItem3.count > 0 then
     if xPlayer.canCarryItem('packaged_burger', 1) then
         xPlayer.removeInventoryItem('burger', 1)
 		xPlayer.removeInventoryItem('drink', 1)
-		xPlayer.removeInventoryItem('potato', 1)
+		xPlayer.removeInventoryItem('fries', 1)
         xPlayer.addInventoryItem('packaged_burger', 1)
         xPlayer.showNotification('~g~You made a package', true, false, 120)
     else
         xPlayer.showNotification('~r~Inventory is full !', true, false, 120)
     end
 else
-    xPlayer.showNotification('~r~You need a burger and a drink and a potato !', true, false, 120)
+    xPlayer.showNotification('~r~You need a burger and a drink and fries !', true, false, 120)
 end
 end)
 
