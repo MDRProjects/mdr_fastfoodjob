@@ -1,5 +1,3 @@
-USE `plumeesx_7f4d82`;
-
 INSERT INTO `addon_account` (name, label, shared) VALUES
 	('society_fastfood', 'FastFoody', 1)
 ;
