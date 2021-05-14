@@ -32,7 +32,7 @@
 - remove **-master** at the end of file name.
 ### Installation
 - Import fastfood.sql into your database
-- Add img folder contents to **resources\[esx]\esx_inventoryhud\html\img\items**
+- Add img folder contents to **resources\\[esx]\esx_inventoryhud\html\img\items**
 - Add this in your server.cfg : `start mdr_fastfoodjob`
 ### Map
 I made that map for fivem if you don't know how to do this
