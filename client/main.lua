@@ -604,12 +604,6 @@ function loadCarEvent()
 end
 
 function spawnVehicle(carToSpawn)
-    if not IsModelInCdimage(carToSpawn) or not IsModelAVehicle(carToSpawn) then
-        SetNotificationTextEntry("STRING")
-        AddTextComponentString('~r~we have no fucking ' .. carToSpawn .. ' bitch!')
-        DrawNotification(true,false)
-        return
-    end
 	local vehicleModel = GetHashKey(carToSpawn)	
 	RequestModel(vehicleModel)				
 	while not HasModelLoaded(vehicleModel) do	
